@@ -84,7 +84,7 @@ using SalesWebMvc.Models;
             WriteLiteral("\r\n        </dd>\r\n    </dl>\r\n</div>\r\n<div>\r\n    ");
             EndContext();
             BeginContext(375, 54, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff41da80c6204f0e8eb50d4570496a67", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "81c049e8d18643f2a084291da187322b", async() => {
                 BeginContext(421, 4, true);
                 WriteLiteral("Edit");
                 EndContext();
@@ -119,7 +119,7 @@ using SalesWebMvc.Models;
             WriteLiteral(" |\r\n    ");
             EndContext();
             BeginContext(437, 38, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "468d046b28ef42dda8c2fe7fdbd0fe59", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "af143580344c4c0891c19d70908e206d", async() => {
                 BeginContext(459, 12, true);
                 WriteLiteral("Back to List");
                 EndContext();
